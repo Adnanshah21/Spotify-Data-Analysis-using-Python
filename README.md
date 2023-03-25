@@ -28,26 +28,13 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 * <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> |  <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> |  <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> |  <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
 
 
-<h2 align="left">Certifications 📜 🎓 ✔️</h2>
 
-- [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
- 
-- [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
-
-- [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle
- 
-- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning 
-
-- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
-
-- [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
 
 
 ## Project - Spotify Data Analysis using Python
 
-**[Kaggle Project: Spotify Data Analysis](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python)**  <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="35" height="20"/> 🔗
- 
-[Kaggle Spotify Datasets:](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project/data) <code>[Spotify Tracks](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python/data?select=tracks.csv)</code> & <code>[Spotify Features](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python/data?select=SpotifyFeatures.csv)</code>  
+
+
 
 ### Objective
  
@@ -56,25 +43,25 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 2. **Top 10 least popular songs on Spotify**
  
 3. **Correlation Heatmap between Variable**
-  <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Correlation%20Heatmap%20between%20Variable.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+ 
  
 4. **Regression plot - Correlation between Loudness and Energy**
-  <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Regression%20plot%20-%20Correlation%20between%20Loudness%20and%20Energy.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+  
  
 5. **Regression plot - Correlation between Popularity and Acousticness**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Regression%20plot%20-%20Correlation%20between%20Popularity%20and%20Acousticness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+
  
 6. **Distibution plot - Visualize total number of songs on Spotify since 1992**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Distibution%20plot%20-%20Visualize%20total%20number%20of%20songs%20on%20Spotify%20since%201992.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+
  
 7. **Change in Duration of songs wrt Years**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Change%20in%20Duration%20of%20songs%20wrt%20Years.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+
  
 8. **Duration of songs in different Genres**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Duration%20of%20songs%20in%20different%20Genres.png" width="80%" height="80%"/> </a> </p>
+ 
  
 9. **Top 5 Genres by Popularity**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Top%205%20Genres%20by%20Popularity.png" width="80%" height="80%"/> </a> </p>
+ 
  
 
 
